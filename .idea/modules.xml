@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/beanfactoryprocessors/bean-factory-processors.iml" filepath="$PROJECT_DIR$/beanfactoryprocessors/bean-factory-processors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gs-multi-module.iml" filepath="$PROJECT_DIR$/gs-multi-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/multi-module-application.iml" filepath="$PROJECT_DIR$/application/multi-module-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/multi-module-library.iml" filepath="$PROJECT_DIR$/library/multi-module-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+com/example/multimodule/application/CustomBeanFactoryPostProcesor.class
+com/example/multimodule/application/DemoConfiguration.class
+com/example/multimodule/application/CustomBeanPostProcessor.class
+com/example/multimodule/application/Game.class
+com/example/multimodule/application/Player.class
+com/example/multimodule/application/DemoApplication.class
